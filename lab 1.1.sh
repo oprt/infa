@@ -1,0 +1,1 @@
+grep -c -i 'Friday' crusoe.txt

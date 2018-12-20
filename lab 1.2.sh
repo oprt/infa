@@ -1,0 +1,1 @@
+sed 's/Friday/Saturday/' crusoe.txt

@@ -1,0 +1,1 @@
+awk '{sum1+=$1} {sum2+=$2} END {print sum1,sum2}' 1.txt
